@@ -10,6 +10,6 @@ Um projeto de um App/API para encontrar especialistas para resolver um problema 
 
 - [Vinícius Lourenço](https://github.com/H4ad)
 - [Gal Bronstein](https://github.com/Galota)
-- Karine Pistilli
+- [Karine Pistilli](https://github.com/KarinePistili)
 - Guilherme Kovaleski
 - Bruno Rocha
